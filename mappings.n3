@@ -1,0 +1,47 @@
+@prefix foaf:   <http://xmlns.com/foaf/0.1/> .
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#>.
+@prefix ht: <http://huffduffer.com/tags/> .
+@prefix wiki: <http://dbpedia.org/resource/> .
+
+ht:a+clockwork+orange owl:sameAs wiki:A_Clockwork_Orange .
+
+ht:a-tribe-called-quest owl:sameAs wiki:A_Tribe_Called_Quest .
+
+ht:aaas owl:sameAs wiki:American_Association_for_the_Advancement_of_Science .
+
+ht:abu-ghraib owl:sameAs wiki:Abu_Ghraib_prisoner_abuse .
+
+ht:accessibility owl:sameAs wiki:Accessibility .
+
+ht:aerosmith owl:sameAs <http://www.bbc.co.uk/music/artists/3d2b98e5-556f-4451-a3ff-c50ea18d57cb>.
+
+ht:armandvanhelden owl:sameAs <http://www.bbc.co.uk/music/artists/b09b5127-c62e-4bb2-b790-1e4aa18749ed>.
+
+ht:atheism owl:sameAs wiki:Atheism .
+
+ht:athiest owl:sameAs wiki:Atheism .
+
+ht:athiests owl:sameAs wiki:Atheism .
+
+ht:capitalism owl:sameAs wiki:Capitalism .
+
+ht:catholicism owl:sameAs wiki:Catholicism .
+
+ht:continentalphilosophy owl:sameAs wiki:Continental_Philosophy .
+
+ht:cycling owl:sameAs wiki:Cycling .
+
+ht:dawkins owl:sameAs wiki:Richard_Dawkins .
+
+ht:django owl:sameAs <http://dbpedia.org/resource/Django_(web_framework)> .
+
+ht:philosophy owl:sameAs wiki:Philosophy, <http://id.loc.gov/authorities/sh85100849#concept>, <http://id.loc.gov/authorities/sh99005065#concept> .
+
+# machine tags
+
+<http://huffduffer.com/tags/book%3Aauthor%3Dlawrence+lessig> owl:sameAs wiki:Lawrence_Lessig .
+
+<http://huffduffer.com/tags/book%3Aauthor%3Drichard+dawkins> owl:sameAs wiki:Richard_Dawkins .
+
+<http://huffduffer.com/tags/book%3Aauthor%3Drobert+park> owl:sameAs <http://dbpedia.org/resource/Robert_E._Park> .
